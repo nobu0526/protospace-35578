@@ -5,4 +5,3 @@ class UsersController < ApplicationController
   end
 
 end
-User.find(1)
